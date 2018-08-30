@@ -1,0 +1,7 @@
+#question 1 Find a Valid Email Address From a Text
+
+[a-zA-Z0-9_.]*[@](gmail.com|yahoo.com)
+
+#question 2 Find a Valid Indian Phone Number From a Text
+
+^+91[6-9]{1}[0-9]{9}
